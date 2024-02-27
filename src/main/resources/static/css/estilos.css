@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+body{
+	margin-left: 15px;
+	margin-right: 15px;
+	
+}
+#formulario{
+	margin: auto;
+	margin-top: 50px;
+	width: 200px;
+}
+#formulario_crear{
+	margin: auto;
+	margin-top: 50px;
+	width: 200px;
+}
+#datos{
+	display: flex;
+}
+#beneficio{
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
